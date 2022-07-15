@@ -149,6 +149,9 @@ csx/
 # Windows Store app package directory
 AppPackages/
 
+/.vs/Stress My API/FileContentIndex
+.vs/Stress My API/FileContentIndex
+
 # Others
 sql/
 *.Cache
