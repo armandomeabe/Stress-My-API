@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Stress My API": {
+      "commandName": "Project",
+      "commandLineArgs": "\"https://swapi.dev/api\" \"/people/1\" 10"
+    }
+  }
+}
